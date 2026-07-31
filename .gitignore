@@ -1,0 +1,11 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*.cache
+venv/
+.venv/
+
+# YOLO generated runs and raw datasets
+runs/
+dataset/
+*.pt
