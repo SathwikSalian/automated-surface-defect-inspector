@@ -45,3 +45,7 @@ Quality_Control_Project/
 ├── app.py                       # Streamlit web dashboard
 ├── .gitignore                   # Ignored files (large datasets, .pt weights)
 └── README.md                    # Project documentation
+
+How to run:
+1.python app.py in  vscode terminal
+2.python -m streamlit run app.py
